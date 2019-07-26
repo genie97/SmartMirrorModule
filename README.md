@@ -1,2 +1,2 @@
-# SmartMirrorModule
-FacialClassification and Realtime Coloring Module 
+# Smart Mirror Module
+Facial Classification and Realtime Coloring Module 
